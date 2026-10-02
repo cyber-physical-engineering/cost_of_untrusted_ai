@@ -4,6 +4,8 @@ A Streamlit what-if calculator. It samples an AI failure rate, applies a newsven
 
 **Status: prototype.** 15 tests pass (pytest on the model, Streamlit's AppTest on the app), and the app starts headless (October 2, 2026; Python 3.12.15, Apple Silicon Mac).
 
+[![CI](https://github.com/cyber-physical-engineering/cost_of_untrusted_ai/actions/workflows/ci.yml/badge.svg)](https://github.com/cyber-physical-engineering/cost_of_untrusted_ai/actions/workflows/ci.yml)
+
 James Thornton set the architecture and requirements. The code was written with AI-assisted development in late 2025. The tests and checks were re-run in October 2026.
 
 ## What it does
